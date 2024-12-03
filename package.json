@@ -1,0 +1,20 @@
+{
+  "name": "is_even",
+  "version": "1.0.0",
+  "description": "is even?",
+  "main": "is_even.js",
+  "exports": "./is_even.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {},
+  "keywords": [],
+  "types": "is_even.d.ts",
+  "files": [
+    "is_even.js",
+    "is_even.d.ts"
+  ],
+  "author": "",
+  "license": "ISC"
+}
